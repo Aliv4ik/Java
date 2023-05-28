@@ -1,3 +1,3 @@
-# aliv4ikJava.github.io
+# Java
 Variables. Logical operators.
 Cycles. Functions. Methods.
